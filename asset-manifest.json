@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d61368e1.chunk.css",
+    "main.js": "/static/js/main.de3f50e5.chunk.js",
+    "main.js.map": "/static/js/main.de3f50e5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.272f313a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.272f313a.js.map",
+    "static/js/2.9a7c68ef.chunk.js": "/static/js/2.9a7c68ef.chunk.js",
+    "static/js/2.9a7c68ef.chunk.js.map": "/static/js/2.9a7c68ef.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d61368e1.chunk.css.map": "/static/css/main.d61368e1.chunk.css.map",
+    "static/js/2.9a7c68ef.chunk.js.LICENSE.txt": "/static/js/2.9a7c68ef.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/background.38fe7cfc.png",
+    "static/media/circle-icon.2a6f4a46.svg": "/static/media/circle-icon.2a6f4a46.svg",
+    "static/media/coins-icon.a4c81526.svg": "/static/media/coins-icon.a4c81526.svg",
+    "static/media/crown.8eed7aa4.svg": "/static/media/crown.8eed7aa4.svg",
+    "static/media/diamond-logo.2c3e3469.svg": "/static/media/diamond-logo.2c3e3469.svg",
+    "static/media/eye-icon.90053541.svg": "/static/media/eye-icon.90053541.svg",
+    "static/media/first.b1547941.svg": "/static/media/first.b1547941.svg",
+    "static/media/img.ad015349.png": "/static/media/img.ad015349.png",
+    "static/media/logo.ff67487c.svg": "/static/media/logo.ff67487c.svg",
+    "static/media/new-logo.d4dee12b.png": "/static/media/new-logo.d4dee12b.png",
+    "static/media/second.8116c414.svg": "/static/media/second.8116c414.svg",
+    "static/media/third.e579d93e.svg": "/static/media/third.e579d93e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.272f313a.js",
+    "static/js/2.9a7c68ef.chunk.js",
+    "static/css/main.d61368e1.chunk.css",
+    "static/js/main.de3f50e5.chunk.js"
+  ]
+}
